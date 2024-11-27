@@ -1,9 +1,9 @@
 ## Hola!
+My name is Álvaro Caride. I'm a physicist and a Quantum HPC Platform Engineer, passionate about integrating these two fields to improve the usability of quantum technologies.
 
-My name is Álvaro Caride, I'm a **physicist** and a **Quantum HPC Platform Engineer**. I really enjoy getting those two to interact in the seek of better usabillity of the Quantum Techs.
-I also have a background of neurosciense, specialty in **cognitive neuroscience**, so I'm into the understunding of the hard problems and trying to help people to look for a solution.
+I also have a background in neuroscience, specializing in cognitive neuroscience, which drives my interest in understanding hard problems and helping others seek solutions.
 
-I'm looking to enhance my own knowledge by colaborating with others so feel free to contact!
+I'm always looking to enhance my knowledge by collaborating with others, so feel free to reach out!
 
 ### I speak:
 
@@ -20,12 +20,20 @@ I'm looking to enhance my own knowledge by colaborating with others so feel free
 ### I usually code in:
 
 ![](https://img.shields.io/static/v1?label&logo=python&message=Python&style=for-the-badge&color=black)
+
+### What's in my toolbox
+
 ![](https://img.shields.io/static/v1?label&logo=bash&message=Bash&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=lua&message=Lua&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=elsp&message=elsp&style=for-the-badge&color=black)
 
+![](https://img.shields.io/static/v1?label&logo=apache-airflow&message=Airflow&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=slurm&message=Slurm&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=grafana&message=Grafana&style=for-the-badge&color=black)
 
-
-
+![](https://img.shields.io/static/v1?label&logo=qiskit&message=Qiskit&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=qulacs&message=Qulacs&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=qasm&message=QASM&style=for-the-badge&color=black)
 
 
 
