@@ -1,9 +1,7 @@
-## Hola!
+## Hello!
 My name is Álvaro Caride. I'm a physicist and a Quantum HPC Platform Engineer, passionate about integrating these two fields to improve the usability of quantum technologies.
 
 I also have a background in neuroscience, specializing in cognitive neuroscience, which drives my interest in understanding hard problems and helping others seek solutions.
-
-I'm always looking to enhance my knowledge by collaborating with others, so feel free to reach out!
 
 ### I speak:
 
@@ -25,7 +23,7 @@ I'm always looking to enhance my knowledge by collaborating with others, so feel
 
 ![](https://img.shields.io/static/v1?label&logo=gnu-bash&message=Bash&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=lua&message=Lua&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&logo=elsp&message=elsp&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=gnu-emacs&message=elisp&style=for-the-badge&color=black)
 
 ![](https://img.shields.io/static/v1?label&logo=apache-airflow&message=Airflow&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=slurm&message=Slurm&style=for-the-badge&color=black)
@@ -35,7 +33,17 @@ I'm always looking to enhance my knowledge by collaborating with others, so feel
 ![](https://img.shields.io/static/v1?label&logo=qulacs&message=Qulacs&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&logo=qasm&message=QASM&style=for-the-badge&color=black)
 
+![](https://img.shields.io/static/v1?label&logo=openstack&message=openstack&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=prometheus&message=prometheus&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=Opentsdb&message=opentsdb&style=for-the-badge&color=black)
 
+![](https://img.shields.io/static/v1?label&logo=rockylinux&message=Rocky&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=wireguard&message=Wireguard&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&logo=arduino&message=arduino&style=for-the-badge&color=black)
+
+### Working for 
+
+![](https://img.shields.io/static/v1?label&logo=fujitsu&message=fujitsu&style=for-the-badge&color=black)
 
 <!---
 Alvaro-Caride/Alvaro-Caride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
